@@ -11,7 +11,7 @@
 
 <div align="left">
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img height=52 src="https://img.icons8.com/color/344/c-plus-plus-logo.png"/>
+<img height=50 src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
 <div>
 
 
