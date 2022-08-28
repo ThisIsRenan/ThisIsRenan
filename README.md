@@ -1,4 +1,4 @@
-## Hi 
+## Hi <img src="https://github.com/ThisIsRenan/ThisIsRenan/blob/main/image/hi.gif" width="30px">
 
 <img align="left" src="https://github.com/ThisIsRenan/ThisIsRenan/blob/main/image/spike.jpg" alt="spike de cowboy bebop" width="320"/> 
 
