@@ -31,8 +31,8 @@
   <img height=50 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png"/>
   <img height=50 src="https://vuejsbr-docs-next.netlify.app/logo.png"/>
   <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png"/>
+  <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
 
-  
   </div>
 
 
