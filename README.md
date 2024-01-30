@@ -2,7 +2,7 @@
 <div>
 <img align="left" src="https://github.com/ThisIsRenan/ThisIsRenan/blob/main/image/spike2.jpg" alt="spike de cowboy bebop" width="320"/> 
 
-## SEE YOU SPACE COWBOY... 
+## "Lifes short...Why does it take so long" 
 
 ```
 🏫 Cursando Ciência da Computação na UTFPR
