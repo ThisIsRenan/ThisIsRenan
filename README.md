@@ -1,42 +1,28 @@
-## Hi <img src="https://github.com/ThisIsRenan/ThisIsRenan/blob/main/image/hi.gif" width="30px">
+
+## “𝙻𝚒𝚏𝚎𝚜 𝚜𝚑𝚘𝚛𝚝... 𝚆𝚑𝚢 𝚍𝚘𝚎𝚜 𝚒𝚝 𝚝𝚊𝚔𝚎 𝚜𝚘 𝚕𝚘𝚗𝚐”
+
+![](vinland.gif)
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=thisisrenan&color=00cf00)
+
+##  𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖
+- 🖥 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝙳𝚎 𝙲𝚒𝚎𝚗𝚌𝚒𝚊 𝚍𝚊 𝙲𝚘𝚖𝚙𝚞𝚝𝚊𝚌̧𝚊̃𝚘 𝚗𝚊 𝚄𝚃𝙵𝙿𝚁-𝙲𝙼
+
+##  𝙻𝚒𝚗𝚐𝚞𝚊𝚐𝚎𝚗𝚜 𝚍𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚊çã𝚘
 <div>
-<img align="left" src="https://github.com/ThisIsRenan/ThisIsRenan/blob/main/image/spike2.jpg" alt="spike de cowboy bebop" width="320"/> 
-
-## "Lifes short...Why does it take so long" 
-
-```
-🏫 Cursando Ciência da Computação na UTFPR
-
-```
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</div>
+ 
+## 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜
 <div>
-
-## Linguagens de programação:
-
-  <div>
-  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img height=50 src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
-  <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"/>
-  <img height=50 src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"/>
-  <img height=50 src="https://cdn-icons-png.flaticon.com/256/226/226777.png"/>
-  <img height=50 src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"/>
-
-    
-  </div>
-  
-  <div>
-    
-  ## Tecnologias:
-  
-  <img height=50 src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>
-  <img height=50 src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png"/>
-  <img height=50 src="https://vuejsbr-docs-next.netlify.app/logo.png"/>
-  <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/864px-Tux.svg.png"/>
-  <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
-
-  </div>
-
-
-
-
-
-
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
