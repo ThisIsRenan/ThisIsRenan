@@ -1,7 +1,8 @@
 
 ## “𝙻𝚒𝚏𝚎𝚜 𝚜𝚑𝚘𝚛𝚝... 𝚆𝚑𝚢 𝚍𝚘𝚎𝚜 𝚒𝚝 𝚝𝚊𝚔𝚎 𝚜𝚘 𝚕𝚘𝚗𝚐”
 
-![Vinland](https://github.com/thisisrenan/ThisIsRenan/blob/main/image/vinland.gif)
+<img src="https://github.com/thisisrenan/ThisIsRenan/blob/main/image/vinland.gif" alt="Vinland" width="800" />
+
 
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=thisisrenan&color=00cf00)
